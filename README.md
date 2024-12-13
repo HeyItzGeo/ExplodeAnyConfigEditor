@@ -1,15 +1,7 @@
-# ExplodeAny ConfigEditor for Minecraft
+# 🚨 Repository Moved!
 
-Welcome to a **ExplodeAny** configuration editor! 
+The **ExplodeAny ConfigEditor** has moved to a new home! Please visit the new repository for the latest updates, features, and improvements:
 
-## 📦 Installation
-To use you'll need the ExplodeAny plugin, download it from the repository and follow the installation instructions.
+🔗 [ExplodeAny_ControlCenter on GitHub](https://github.com/HeyItzGeo/ExplodeAny_ControlCenter)
 
-## 🔗 Check it Out!
-Discover the full capabilities of the **ExplodeAny** plugin on GitHub:
 
-[Explore the GitHub repository here!](https://github.com/GuilleX7/ExplodeAny/tree/main)
-
----
-
-Feel free to contribute or open issues if you have any suggestions or need assistance!
